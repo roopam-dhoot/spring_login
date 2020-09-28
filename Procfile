@@ -1,0 +1,1 @@
+web: java -jar $JAVA_OPTS -Dserver.port=$PORT target/login-registration-springboot-hibernate-jsp-auth-0.0.1-SNAPSHOT.jar
